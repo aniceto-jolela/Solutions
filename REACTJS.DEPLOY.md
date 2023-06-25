@@ -54,7 +54,7 @@ git push
 $ npm run deploy
 ```
 
-![gh-pages](<assets/Captura de tela de 2023-06-25 16-46-41.png>)
+![Alt text](assets/gh-pages.png)
 
 ### Autor : Aniceto Jolela 🥰
 - [Linkedin](https://www.linkedin.com/in/aniceto-jolela-076547184/)
