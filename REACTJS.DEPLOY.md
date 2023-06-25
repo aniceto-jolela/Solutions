@@ -1,4 +1,4 @@
-# REACTJS
+# Deploying a React App to GitHub Pages
 
 
 Assuming you already have the **reactjs** or **nextjs** project completed.
